@@ -2,9 +2,9 @@
 
 ### Exploration Box 1
 
-#### Concentrate ?
+#### Focus ?
 
-| Name      | Concentrate ?                                                                    |
+| Name      | Focus ?                                                                          |
 | --------- | -------------------------------------------------------------------------------- |
 | Japanese  | しゅうちゅう                                                                           |
 | Type      | Grass                                                                            |
@@ -19,11 +19,11 @@
 | Down      |                                                                                  |
 | Sideways  | On your next turn, increase the number of Enekoro you roll by 2. |
 
-[Concentrate](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard01.webp)
+[Focus](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard01.webp)
 
-#### Endure ?
+#### Resist ?
 
-| Name      | Endure ?                                                                                          |
+| Name      | Resist ?                                                                                          |
 | --------- | ------------------------------------------------------------------------------------------------- |
 | Japanese  | たえる                                                                                               |
 | Type      | Grass                                                                                             |
@@ -38,11 +38,11 @@
 | Down      | Reduce damage taken by an additional 20.                                          |
 | Sideways  |                                                                                                   |
 
-[Endure](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard02.webp)
+[Resist](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard02.webp)
 
-#### Horn Attack ?
+#### Horn Beat ?
 
-| Name      | Horn Attack ?                                    |
+| Name      | Horn Beat ?                                      |
 | --------- | ------------------------------------------------ |
 | Japanese  | つのでたたく                                           |
 | Type      | Grass                                            |
@@ -57,7 +57,7 @@
 | Down      |                                                  |
 | Sideways  | This attack does 30 more damage. |
 
-[Horn Attack](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard03.webp)
+[Horn Beat](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard03.webp)
 
 #### Guillotine
 
@@ -133,24 +133,24 @@
 | Down      |                                                                                                      |
 | Sideways  | During your last turn, if your Enekoro roll failed, this attack does 40 more damage. |
 
-[Pincer Charge](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard07.webp)
+[Berserk Swing](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard07.webp)
 
 #### Reckless Charge
 
-| Name      | Reckless Charge                                             |
-| --------- | ----------------------------------------------------------- |
-| Japanese  | とつげき                                                        |
-| Type      | Grass                                                       |
-| Code      | EBW01-008                                                   |
-| Pokémon   | Pinsir                                                      |
-| Energy    | {G}{G}{G}                                                   |
-| Damage    | 30                                                          |
-| Effect    |                                                             |
-| Standing  | This attack does 20 more damage.            |
-| Handstand | This Pokémon also does 20 damage to itself. |
-| Back      | This attack does 20 more damage.            |
-| Down      | This Pokémon also does 20 damage to itself. |
-| Sideways  |                                                             |
+| Name      | Reckless Charge                                        |
+| --------- | ------------------------------------------------------ |
+| Japanese  | とつげき                                                   |
+| Type      | Grass                                                  |
+| Code      | EBW01-008                                              |
+| Pokémon   | Pinsir                                                 |
+| Energy    | {G}{G}{G}                                              |
+| Damage    | 30                                                     |
+| Effect    |                                                        |
+| Standing  | This attack does 20 more damage.       |
+| Handstand | This Pokémon does 20 damage to itself. |
+| Back      | This attack does 20 more damage.       |
+| Down      | This Pokémon does 20 damage to itself. |
+| Sideways  |                                                        |
 
 [Reckless Charge](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard08.webp)
 
@@ -175,19 +175,19 @@
 
 #### Submission
 
-| Name      | Submission                                                  |
-| --------- | ----------------------------------------------------------- |
-| Japanese  | じごくぐるま                                                      |
-| Type      | Fighting                                                    |
-| Code      | EBW01-010                                                   |
-| Pokémon   | Pinsir                                                      |
-| Energy    | {F}{C}{C}{C}                                                |
-| Damage    | 30                                                          |
-| Effect    | This Pokémon also does 20 damage to itself. |
-| Standing  | This attack does 30 more damage.            |
-| Handstand | This attack does 30 more damage.            |
-| Back      | This attack does 30 more damage.            |
-| Down      | This attack does 30 more damage.            |
-| Sideways  |                                                             |
+| Name      | Submission                                             |
+| --------- | ------------------------------------------------------ |
+| Japanese  | じごくぐるま                                                 |
+| Type      | Fighting                                               |
+| Code      | EBW01-010                                              |
+| Pokémon   | Pinsir                                                 |
+| Energy    | {F}{C}{C}{C}                                           |
+| Damage    | 30                                                     |
+| Effect    | This Pokémon does 20 damage to itself. |
+| Standing  | This attack does 30 more damage.       |
+| Handstand | This attack does 30 more damage.       |
+| Back      | This attack does 30 more damage.       |
+| Down      | This attack does 30 more damage.       |
+| Sideways  |                                                        |
 
 [Submission](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard10.webp)
