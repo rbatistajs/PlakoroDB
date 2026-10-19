@@ -32,11 +32,11 @@
 | Energy    | {Y}{Y}                                                                                                                                                                                           |
 | Damage    | 20                                                                                                                                                                                               |
 | Effect    |                                                                                                                                                                                                  |
-| Standing  | On the opponent's next turn, if the charakoro rolls {s1}{s2}, you do not take damage from attacks. (You are still affected by other effects.) |
+| Standing  | On the opponent's next turn, if the Charakoro rolls {s1}{s2}, you do not take damage from attacks. (You are still affected by other effects.) |
 | Handstand |                                                                                                                                                                                                  |
 | Back      |                                                                                                                                                                                                  |
 | Down      |                                                                                                                                                                                                  |
-| Sideways  | On the opponent's next turn, if the charakoro rolls {s1}{s2}, you do not take damage from attacks. (You are still affected by other effects.) |
+| Sideways  | On the opponent's next turn, if the Charakoro rolls {s1}{s2}, you do not take damage from attacks. (You are still affected by other effects.) |
 
 [Fluffy Flight](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard02.webp)
 
@@ -134,5 +134,3 @@
 | Sideways  | If the opponent is a {N} type, this attack does 40 more damage. |
 
 [Moonblast](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard07.webp)
-
-
